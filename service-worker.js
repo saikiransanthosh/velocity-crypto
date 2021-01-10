@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/velocity-crypto/precache-manifest.63d495307d234271c321b3bd11e1cf35.js"
+  "/velocity-crypto/precache-manifest.5a96eb1e38a9af538cac39b87b8fea8e.js"
 );
 
 workbox.clientsClaim();
